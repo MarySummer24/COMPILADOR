@@ -1,0 +1,2 @@
+int a,b, c; string d; char e,f;
+d=a+c+b-a-(b- -20.5e-2 ) +'s' +"hola";
